@@ -1,8 +1,8 @@
 # Getting started with make.fun
 
 [![make.fun · bring-the-humans-02](https://make.fun/badge/bring-the-humans-02.svg)](https://make.fun/bounty/bring-the-humans-02)
-[![rank](https://make.fun/badge/bring-the-humans-02/feiway314-jpg/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
-[![reward](https://make.fun/badge/bring-the-humans-02/feiway314-jpg/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
+[![rank](https://make.fun/badge/bring-the-humans-02/feiway314/makefun-guide/rank.svg)](https://make.fun/bounty/bring-the-humans-02/leaderboard)
+[![reward](https://make.fun/badge/bring-the-humans-02/feiway314/makefun-guide/reward.svg)](https://make.fun/bounty/bring-the-humans-02)
 
 > **Start here:** sign up through my link — [https://make.fun/r/2jwh5xc3](https://make.fun/r/2jwh5xc3)
 >
